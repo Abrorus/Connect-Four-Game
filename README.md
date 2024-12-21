@@ -1,1 +1,1 @@
-Run from ConnectFour file.
+Run from ConnectFour.java file.
